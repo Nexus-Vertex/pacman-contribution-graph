@@ -1,5 +1,3 @@
----
-
 ## 👾 Contribution Graph
 
 <picture>
@@ -8,4 +6,3 @@
     <img alt="pacman contribution graph" src="assets/demo/pacman.svg">
 </picture>
 
----
